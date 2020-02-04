@@ -5,7 +5,7 @@ This file is the  documentation for google-drive-sync
 
 ## What is this repository for?
 * Quick summary:  
-
+This is an automation script used to download contents of a given google-drive folder. The folder in this particular case should be public access and the ID is then provided for this script which will proceed to the download.
    - 
 * Version:  
 In development 0.09 - January 2019
@@ -17,7 +17,7 @@ In development 0.09 - January 2019
 * Configuration:  
    + 
 * Dependencies:  
-   + OpenCV
+   + 
    + 
 * Hardware:  
  + PC
