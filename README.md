@@ -21,8 +21,6 @@ In development 0.09 - January 2019
    + 
 * Hardware:  
  + PC
-  - 
-  - 
 
 ## Description of the included files 
 * 
@@ -39,7 +37,4 @@ Mohamed Attia : mohamedattia237@gmail.com
 * Well need to complete this Readme file
  
 ## Miscellaneous 
-
-
-* 
 
